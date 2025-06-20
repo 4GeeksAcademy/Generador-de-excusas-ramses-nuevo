@@ -8,7 +8,7 @@ Una vez tu editor de codigo este abierto, instala los paquetes escribiendo: `npm
 
 ### ¿Cómo ejecuto mi sitio web para ver los cambios en vivo?
 
-Escribe en la línea de comandos `$ npm run start` y escribe localhost en el navegador.
+Escribe en la línea de comandos `$ ` y escribe localhost en el navegador.
 
 ### ¿Dónde escribo mi código?
 
@@ -36,7 +36,7 @@ Esta plantilla es 100% compatible con el alojamiento gratuito de GitHub Pages. P
 
 ```bash
 $ npm run deploy
-```
+```npm run start
 
 ¡Muy fácil y en solo un paso! Sube a tu rama __main__ y utiliza el alojamiento gratuito que viene con [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), el proyecto está listo para ser publicado. Recuerda elegir ejecutar la Página de GitHub desde tu rama principal.
 
